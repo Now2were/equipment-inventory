@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.csv
+*.exe
+*.mp4
+*.spec
+build/
+dist/
+tmp/
+Результаты проверки SQL.json
