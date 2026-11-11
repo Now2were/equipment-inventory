@@ -1,5 +1,7 @@
 # Учёт оборудования
 
+[![Проверки](https://github.com/Now2were/equipment-inventory/actions/workflows/checks.yml/badge.svg)](https://github.com/Now2were/equipment-inventory/actions/workflows/checks.yml)
+
 Локальное приложение для учёта компьютеров, ноутбуков и принтеров. Ведите карточки техники, отслеживайте её перемещения и сверяйте наличие по кабинетам. Программа хранит данные в SQLite и работает без сервера и интернета.
 
 **Python 3.12 · Tkinter · SQLite · Windows x64**
